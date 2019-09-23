@@ -1,1 +1,2 @@
+# make file or folder writable  by webserver apche/php not root
 sudo chown -R www-data /var/www/html
